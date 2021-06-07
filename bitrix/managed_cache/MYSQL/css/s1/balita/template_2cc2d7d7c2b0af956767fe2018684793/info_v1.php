@@ -1,0 +1,1 @@
+<?php $filesInfo = ["/local/templates/balita/fonts/flaticon/font/flaticon.css" => "15229597701563",]; ?>
